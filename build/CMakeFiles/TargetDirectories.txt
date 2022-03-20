@@ -1,0 +1,5 @@
+/home/artyom/Highload_DZ2/build/CMakeFiles/rebuild_cache.dir
+/home/artyom/Highload_DZ2/build/CMakeFiles/edit_cache.dir
+/home/artyom/Highload_DZ2/build/CMakeFiles/main.dir
+/home/artyom/Highload_DZ2/build/CMakeFiles/response.dir
+/home/artyom/Highload_DZ2/build/CMakeFiles/server.dir

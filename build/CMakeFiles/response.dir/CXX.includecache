@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/server/response.h
+vector
+-
+iostream
+-
+map
+-
+
+/home/artyom/Highload_DZ2/lib/server/response.cpp
+response.h
+-
+ctime
+-
+
